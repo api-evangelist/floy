@@ -1,9 +1,28 @@
 aid: floy
 name: Floy
-description: 'Floy is a company surfaced as a portfolio company of hv-capital and added to the API Evangelist
-  network as a stub for enrichment. Sector: healthcare; ai-enterprise-software. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Floy is a Munich-based healthcare AI company (founded 2021) that builds
+  AI-powered radiology software for medical imaging. Its two products — opportunistic
+  screening and diagnostic assistance — analyse CT and MRI examinations to surface
+  additional findings beyond the initial radiologist assessment, enabling earlier
+  diagnosis and better patient outcomes. The models are trained on 17 million medical
+  examinations. Floy is an ISO 13485:2016 certified, EU MDR Class IIb medical-device
+  manufacturer and is GDPR compliant, with research partnerships including DKFZ, LMU
+  Klinikum Munich, Stanford, and the University of Oxford. It is backed by HV Capital,
+  10x Founders, xdeck, and Acurio Ventures. Floy is a clinical B2B product and does
+  not publish a public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/floy/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/66f7b48c0855a2b7dbf4f206/670a9ce67cb7024ec518cf2d_Floy_Open_Graph_Maximize%20Human%20Health.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,13 +31,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Healthcare; Ai Enterprise Software
+- Healthcare
+- Medical Imaging
+- Radiology
+- Artificial Intelligence
+- Diagnostics
+- Clinical Decision Support
+- Medical Devices
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: VulnerabilityDisclosure
+  url: security/floy-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.floy.com/vrp
+- type: DomainSecurity
+  url: security/floy-domain-security.yml
+- type: Website
+  url: https://www.floy.com
+- type: Blog
+  url: https://www.floy.com/news
+- type: PrivacyPolicy
+  url: https://www.floy.com/datenschutz
+- type: Support
+  url: https://www.floy.com/kontakt-floy
+- type: WellKnown
+  url: well-known/floy-well-known.yml
+- type: SecurityTxt
+  url: well-known/floy-security.txt
+- type: Conformance
+  url: conformance/floy-conformance.yml
+- type: Compliance
+  url: https://www.floy.com/ueber-floy
+- type: LLMsTxt
+  url: llms/floy-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,19 @@
+# Floy
+
+> Floy is a Munich-based healthcare AI company (founded 2021) building AI-powered radiology software — opportunistic screening and diagnostic assistance for medical imaging. Its models, trained on 17 million medical examinations, surface additional findings beyond the initial radiologist assessment to enable earlier diagnosis. Floy is an ISO 13485:2016 certified, EU MDR Class IIb medical-device manufacturer and is GDPR compliant. Floy does not publish a public developer API.
+
+## Products
+- [Opportunistic Screening](https://www.floy.com/opportunistisches-screening): Detects changes beyond the primary investigation (bone health, cardiovascular status, incidental findings).
+- [Diagnostic Assistance](https://www.floy.com/diagnostische-assistenz): Supports radiologists with organ measurement, tumor evaluation, and joint assessment.
+
+## Company
+- [About Floy](https://www.floy.com/ueber-floy): Company, team, certifications and research partnerships.
+- [News](https://www.floy.com/news): Company news and updates.
+- [Contact](https://www.floy.com/kontakt-floy): Contact form (info@floy.com, +49 89 244136090).
+- [Careers](https://floy.jobs.personio.com/): Open positions.
+
+## Legal & Security
+- [Privacy Policy (Datenschutz)](https://www.floy.com/datenschutz)
+- [Legal Notice (Impressum)](https://www.floy.com/impressum)
+- [Vulnerability Reward Program](https://www.floy.com/vrp): Responsible-disclosure / bug-bounty policy; report to security@floy.com.
+- [security.txt](https://floy.com/.well-known/security.txt): RFC 9116 security contact.

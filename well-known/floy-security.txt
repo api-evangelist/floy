@@ -1,0 +1,5 @@
+Contact: mailto:security@floy.com
+Expires: 2027-01-09T23:00:00.000Z
+Preferred-Languages: en, de
+Canonical: https://floy.com/.well-known/security.txt
+Policy: https://floy.com/vrp

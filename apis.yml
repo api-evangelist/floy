@@ -11,6 +11,17 @@ description: 'Floy is a Munich-based healthcare AI company (founded 2021) that b
   10x Founders, xdeck, and Acurio Ventures. Floy is a clinical B2B product and does
   not publish a public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/floy/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
